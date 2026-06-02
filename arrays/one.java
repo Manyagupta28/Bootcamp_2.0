@@ -1,5 +1,7 @@
 package arrays;
 
 public class one {
-    abc
+    public static void main(String[] args) {
+    System.out.println("hello manya");
+}
 }
